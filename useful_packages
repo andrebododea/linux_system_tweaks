@@ -1,0 +1,3 @@
+flameshot       # Very convenient screen grab and markup tool
+slimbook        # Laptop management package that runs TLP under the hood
+gnome-tweaks    # Tweaks for GNOME. Main function that this serves is to provide the "Suspend when laptop lid is closed" functionality
